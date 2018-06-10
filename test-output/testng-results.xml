@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27450" started-at="2018-06-05T14:25:52Z" finished-at="2018-06-05T14:26:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27450" started-at="2018-06-05T14:25:52Z" finished-at="2018-06-05T14:26:20Z">
+      <class name="testcases.TC004_EditLead">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.TC004_EditLead@127bd23]" name="beforeSuite" is-config="true" duration-ms="1188" started-at="2018-06-05T14:25:51Z" finished-at="2018-06-05T14:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:testcases.TC004_EditLead@127bd23]" name="setData" is-config="true" duration-ms="15" started-at="2018-06-05T14:25:52Z" finished-at="2018-06-05T14:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testcases.TC004_EditLead@127bd23]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-06-05T14:25:52Z" finished-at="2018-06-05T14:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC004_EditLead@127bd23]" name="beforeMethod" is-config="true" duration-ms="10070" started-at="2018-06-05T14:25:54Z" finished-at="2018-06-05T14:26:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginAndLogout(java.lang.String, java.lang.String)[pri:0, instance:testcases.TC004_EditLead@127bd23]" name="loginAndLogout" duration-ms="14206" started-at="2018-06-05T14:26:04Z" data-provider="fetchData" finished-at="2018-06-05T14:26:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAndLogout -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC004_EditLead@127bd23]" name="afterMethod" is-config="true" duration-ms="1393" started-at="2018-06-05T14:26:18Z" finished-at="2018-06-05T14:26:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.TC004_EditLead@127bd23]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-06-05T14:26:20Z" finished-at="2018-06-05T14:26:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.TC004_EditLead@127bd23]" name="afterSuite" is-config="true" duration-ms="938" started-at="2018-06-05T14:26:20Z" finished-at="2018-06-05T14:26:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.TC004_EditLead -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
